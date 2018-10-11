@@ -48,7 +48,7 @@ You should be using the browser add-on [Stylus](https://add0n.com/stylus.html). 
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/obscuredetour/odin-project-dark/master/odin-project-dark.user.css)
 
-If the above button does not work, you can simply go to the respective [OpenUserCSS](https://openusercss.org/theme/5bbfc9e57dd88f0c002c0713) or [Userstyles.org](https://userstyles.org/styles/154701/the-odin-project-dark) pages and install it.
+If the above button does not work, you can simply go to the respective [OpenUserCSS](https://openusercss.org/theme/5bbfe2317dd88f0c002c0714) or [Userstyles.org](https://userstyles.org/styles/154701/the-odin-project-dark) pages and install it.
 
 #### Screenshots
 
